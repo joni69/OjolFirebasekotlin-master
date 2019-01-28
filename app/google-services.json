@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1094010845390",
+    "firebase_url": "https://intra-android-ojolfk.firebaseio.com",
+    "project_id": "intra-android-ojolfk",
+    "storage_bucket": "intra-android-ojolfk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094010845390:android:18c6d1f77fef382c",
+        "android_client_info": {
+          "package_name": "com.udacoding.intraojolfirebaseKotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094010845390-t220cmboo95sav05ahbi9g4okpeatctv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV6Lb6AmUFX_mwb5BbX7IScR6XCVYUXig"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
